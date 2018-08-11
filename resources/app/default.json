@@ -1,0 +1,20 @@
+{
+	"opens": 0,
+	"serverPort": 1730,
+	"userDefined": {
+		"convertTo": "DEEZER",
+		"convertFrom": "SPOTIFY",
+		"trackNameTemplate": "%artist% - %title%",
+		"playlistTrackNameTemplate": "%number% - %artist% - %title%",
+		"albumNameTemplate": "%artist% - %album%",
+		"createM3UFile": false,
+		"createArtistFolder": false,
+		"createAlbumFolder": false,
+		"downloadLocation": null,
+		"artworkSize": "/1400x1400.jpg",
+		"hifi": false,
+		"padtrck": false,
+		"syncedlyrics": false,
+		"numplaylistbyalbum": false
+	}
+}

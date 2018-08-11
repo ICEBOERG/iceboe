@@ -1,0 +1,28 @@
+{
+  "name": "deezloader-remaster",
+  "productName": "Deezloader Remaster",
+  "version": "5.0.2-ALPHA",
+  "description": "Download music from Deezer",
+  "main": "main.js",
+  "author": "Ivan de la Beldad Fernandez <ivandelabeldad@gmail.com>",
+  "license": "GPL3",
+  "dependencies": {
+    "@types/bluebird-global": "^3.5.5",
+    "@types/request": "^2.47.0",
+    "@types/request-promise": "^4.1.41",
+    "async": "latest",
+    "bluebird": "^3.5.1",
+    "dateformat": "^3.0.3",
+    "electron-context-menu": "latest",
+    "electron-window-state-manager": "latest",
+    "express": "latest",
+    "flac-metadata": "latest",
+    "fs-extra": "latest",
+    "package.json": "latest",
+    "request": "latest",
+    "request-promise": "^4.2.2",
+    "requestretry": "latest",
+    "socket.io": "latest",
+    "winston": "^2.4.2"
+  }
+}
